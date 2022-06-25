@@ -1,0 +1,196 @@
+@media (max-width: 1024px) {
+   .header__nav{
+      gap: 230px;
+   }
+   .iphone{
+      width: 500px;
+   }
+   .main__nav{
+      flex-direction: column;
+   }
+}
+@media (max-width: 768px) {
+   .header__nav{
+      gap: 90px;
+   }
+   .title{
+      font-size: 45px;
+   }
+   .iphone{
+      width: 450px;
+   }
+   .qator2{
+      flex-direction: column;
+   }
+   .images__phone, .images__planshet {
+      Height: 609px;
+  }
+}
+@media (max-width: 736px) {
+   .header__nav{
+      gap: 50px;
+   }
+   .iphone{
+      width: 425px;
+   }
+   .title {
+      font-size: 35px;
+  }
+}
+@media (max-width: 656px) {
+   .header__nav{
+      gap: 30px;
+   }
+   .iphone{
+      width: 400px;
+   }
+   .btn {
+      padding: 10px 45px;
+   }
+}
+@media (max-width: 656px) {
+   .header__nav{
+      gap: 10px;
+   }
+   .img{
+      width: 100px;
+   }
+}
+@media (max-width: 530px) {
+   .section__nav{
+      flex-direction: column;
+   }
+   .iphone{
+      width: 300px;
+   }
+   .section__list{
+      text-align: center;
+      margin-top: 0px;
+   }
+   .btn {
+      padding: 6px 30px;
+      margin-left: 37%;
+  }
+}
+@media (max-width: 425px) {
+   .header__nav{
+      gap: 10px;
+      flex-wrap: wrap;
+   }
+   .section__nav{
+      flex-direction: column;
+   }
+   .section__list{
+      text-align: center;
+      margin-top: 20px;
+   }
+   .title {
+      font-size: 27px;
+  }
+  .btn {
+   padding: 6px 35px;
+   margin-left: 33%;
+  }
+  .iphone {
+   width: 300px;
+  }
+  .main__images-PK {
+   margin-top: 20px;
+   Width: 369px;
+   Height: 293px;
+}
+.main__nav{
+   margin-left: 4%;
+}
+.PK{
+   width: 300px;
+}
+.images__watch {
+   Width: 369px;
+   Height: 213px;
+   margin: 50px 0px;
+}
+.watch{
+   width: 300px;
+   margin-right: 69px;
+}
+.watch__title, .PK__title{
+   font-size: 18px;
+}
+}
+@media (max-width: 396px) {
+   .header__nav{
+      flex-direction: column;
+   }
+   .list {
+      display: flex;
+      gap: 20px;
+  }
+}
+@media (max-width: 375px) {
+   .list{
+      flex-direction: column;
+      text-align: center;
+   }
+   .iphone {
+      width: 240px;
+  }
+  .section__list{
+   margin-top: 0px;
+   margin-right: 10%;
+  }
+  .btn {
+   padding: 6px 35px;
+   margin-left: 26%;
+  }
+  .main__images-PK {
+   Width: 325px;
+   Height: 288px;
+}
+.images__watch {
+   Width: 324px;
+   Height: 213px;
+}
+.watch{
+   width: 255px;
+   height: 213px;
+}
+.images__phone{
+   height: 517px;
+}
+.phone{
+   width: 311px;
+   margin-top: 35px;
+}
+  
+}
+@media (max-width: 320px) {
+   .main__images-PK {
+      Width: 304px;
+  }
+  .images__watch {
+   Width: 304px;
+}
+.watch__title, .PK__title {
+   font-size: 13px;
+}
+.PK__text, .watch__text{
+   font-size: 10px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
